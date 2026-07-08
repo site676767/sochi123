@@ -1,0 +1,20 @@
+body {
+    background-image: url(sder.png);
+}
+h1 {
+    width: 600 px;
+}
+p {
+    color: green ;
+    background-color: red ;
+}
+a {
+    color: yellow;
+}
+button {
+    background-color:  black;
+    color:red ;
+}
+video {
+    width: 500 px ;
+}
